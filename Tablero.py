@@ -50,15 +50,6 @@ class Tablero:
                     continue
 
 
-#iNSTANCIAS 
-#Las utilicé para probar el codigo 
-
-#ficha1= Ficha("Ficha roja")
-#ficha2 = Ficha("Ficha azul")
-#ficha3 = Ficha("Ficha verde")
-#fichas = [ficha1 , ficha2 , ficha3]
-#miT = Tablero(60 , fichas)
-#miT.turno() 
 
 
 
