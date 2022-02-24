@@ -1,4 +1,5 @@
-# Ejemplo POO
+# RESPUESTA DEL CODIGO CLASE TABLERO 
+#Joseph David Santamaría Castro
 
 ## Juego de tablero con fichas y dados
 
